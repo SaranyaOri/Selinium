@@ -1,4 +1,4 @@
-package Practice.Ex_03_Oct_2024;
+package Practice;
 
 public class Table_of_10 {
     public static void main(String[] args) {
